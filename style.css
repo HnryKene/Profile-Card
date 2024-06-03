@@ -1,0 +1,13 @@
+body {
+    background-image: url('./images/blue-gradient.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+.profile-container{
+display:flex;
+justify-content:center;
+align-items:center;
+border:black solid 20px;
+}
